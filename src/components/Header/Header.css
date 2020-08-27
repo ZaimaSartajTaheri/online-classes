@@ -1,0 +1,12 @@
+.header{
+    text-align:center;
+    color:rgb(20, 135, 250);
+    font-size:20px;
+}
+.search-bar{
+    display:flex;
+    justify-content: center;
+}
+.search-bar input[type=search]{
+    width:300px !important;
+}

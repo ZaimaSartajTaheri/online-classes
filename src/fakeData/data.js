@@ -1,0 +1,79 @@
+var courses =
+    [
+    {
+        "title":"Artificial Intelligence",
+        "image":"https://i.ibb.co/mbZN3FL/ai.jpg",
+        "price":12
+    },
+    {
+        "title":"Algorithm",
+        "image":"https://i.ibb.co/GR9X7H7/algorithm.png",
+        "price":2
+    },
+    {
+        "title":"Angular",
+        "image":"https://i.ibb.co/d2S3RY5/angular.png",
+        "price":5
+    },
+    {
+        "title":"Bootstrap",
+        "image":"https://i.ibb.co/DDd1PR4/boostrap.png",
+        "price":50
+    },
+    {
+        "title":"C Programming",
+        "image":"https://i.ibb.co/X2nLGvm/c.jpg",
+        "price":30
+    },
+    {
+        "title":"CSS",
+        "image":"https://i.ibb.co/qFBWmrn/css.png",
+        "price":7
+    },
+    {
+        "title":"Data Structure",
+        "image":"https://i.ibb.co/t4j6hkk/data-structure.jpg",
+        "price":10
+    },
+    {
+        "title":"HTML",
+        "image":"https://i.ibb.co/WyVWv38/html.png",
+        "price":3
+    },
+    {
+        "title":"JAVA",
+        "image":"https://i.ibb.co/MSgzPFr/java.png",
+        "price":15
+    },
+    {
+        "title":"Javascript",
+        "image":"https://i.ibb.co/Jp3Rz91/js.png",
+        "price":45
+    },
+    {
+        "title":"Machine learning", 
+        "image":"https://i.ibb.co/28TtfCG/ml.jpg",
+        "price":40
+    },
+    {
+        "title":"Node JS",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+        "price":5
+    },
+    {
+        "title":"Python",
+        "image":"https://i.ibb.co/MVcNPDn/python.jpg",
+        "price":12
+    },
+    {
+        "title":"React",
+        "image":"https://i.ibb.co/2vPHqZg/react.png",
+        "price":9
+    },
+    {
+        "title":"Vue",
+        "image":"https://i.ibb.co/CJrZLC6/vue.png",
+        "price":25
+    }
+];
+export default courses;
